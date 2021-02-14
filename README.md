@@ -5,7 +5,7 @@ Table of Contents
 1. Kickstarter: Raw data with id, name, blurb, goal, pledged, outcomes, country, currency, deadline, launched_at, staff_pick, backers_count, spotlight, Category and Subcategory, Percentage Funded, Average Donation, Parent Category, Subcategory, Data Created Conversion, and Date Ended Conversion columns
 2. Category Statistics: PivotTable and PivotChart of Kickstarter data filtered for US theater outcomes
 
-![Parent Category Outcomes](C:\Users\Alex\Desktop\Analysis Projects\Crowdfunding Analysis\Parent Category Outcomes.png)
+![Parent Category Outcomes](https://user-images.githubusercontent.com/76754655/107887595-2c953f00-6ed5-11eb-849b-86d90ae303bd.png)
 
 3. Outcomes Based on Launch Date: PivotTable and PivotChart of Kickstarter data filtered for theater based on outcomes per data created month
 
