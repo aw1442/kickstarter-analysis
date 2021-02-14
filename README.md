@@ -9,7 +9,7 @@ Table of Contents
 
 3. Outcomes Based on Launch Date: PivotTable and PivotChart of Kickstarter data filtered for theater based on outcomes per data created month
 
-![Outcomes Based on Launch Date](C:\Users\Alex\Desktop\Analysis Projects\Crowdfunding Analysis\Outcomes Based on Launch Date.png)
+![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/76754655/107887574-08396280-6ed5-11eb-828c-0fcd63186da6.png)
 
 4. Subcategory Statistics: PivotTable and PivotChart of Kickstarter data filtered for GB plays outcomes
 5. GB Musical Box and Whisker: GB Musical Box and Whisker based on Kickstarter data
