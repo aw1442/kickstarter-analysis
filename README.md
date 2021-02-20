@@ -1,23 +1,31 @@
-# An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter data to uncover trends
+# Kickstarting with Excel
 
-Table of Contents
-1. Kickstarter: Raw data with id, name, blurb, goal, pledged, outcomes, country, currency, deadline, launched_at, staff_pick, backers_count, spotlight, Category and Subcategory, Percentage Funded, Average Donation, Parent Category, Subcategory, Data Created Conversion, and Date Ended Conversion columns
-2. Category Statistics: PivotTable and PivotChart of Kickstarter data filtered for US theater outcomes which can also be filtered for all categories as shown below:
+## Overview of Project
 
-![Parent Category Outcomes](https://user-images.githubusercontent.com/76754655/107887595-2c953f00-6ed5-11eb-849b-86d90ae303bd.png)
+Louise’s play Fever came close to its fundraising goal in a short amount of time. 
 
-3. Outcomes Based on Launch Date: PivotTable and PivotChart of Kickstarter data filtered for theater based on outcomes per data created month
+### Purpose
 
-![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/76754655/107887574-08396280-6ed5-11eb-828c-0fcd63186da6.png)
+Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. 
 
-4. Subcategory Statistics: PivotTable and PivotChart of Kickstarter data filtered for GB plays outcomes
-5. GB Musical Box and Whisker: GB Musical Box and Whisker based on Kickstarter data
-6. Descriptive Statistics: Mean, Median, Standard Deviation, Upper Quartile, Lower Quartile, and IQR Goals and Pledged for US theaters/plays, as well as the Mean and Median Goals and Pledged for US restaurants and US animation
-7. Failed US Kickstarters - Animat: Failed US Kickstarters for the animation subcategory
-8. Failed US Kickstarters - Restau: Failed US Kickstarters for the restaurant subcategory
-9. Failed US Kickstarters: Failed US Kickstarters for the plays subcategory
-10. Successful US Kickstarters: Successful US Kickstarters for the plays subcategory
-11. Edinburgh Research: Name, blurb, goal, pledged, average donation, and backers for certain requested kickstarters using vlookup
+## Analysis and Challenges
 
-As a recommendation, Louise should consider kickstarters with lower goals since the majority of kickstarters do not end up meeting their goals based on the pledged amount.
+### Analysis of Outcomes Based on Launch Date
+
+Based on the Theater Outcomes Based on Launch Date, it looks as though there were more successful theater outcomes compared to failed and canceled throughout various launch dates. In addition, there are no canceled theater outcomes in October.
+
+### Analysis of Outcomes Based on Goals
+
+Based on the Outcomes Based on Goals, it looks as though there was a higher percentage of successful outcomes based on goals less than 15,000 and between 35,000 and 40,000 compared to percentage of failed outcomes.
+
+### Challenges and Difficulties Encountered
+
+Possible challenges and difficulties that could be encountered included making sure the correct data was being filtered for plays and the correct calculations were done.
+
+## Results
+
+Based on the Theater Outcomes Based on Launch Date, it looks as though May is the most successful month for a theater to have a lauch date. In addition, October does not have any canceled theater outcomes, however there is a higher than average failed outcome for theaters in October as well.
+
+Based on the Outcomes Based on Goals, it looks as though the percentage of successful outcomes is the highest when the goal is less than 1,000, so Louise should plan to keep her goals relatively low when planning her fundraiser.
+
+The limitations of the dataset include no data for any canceled theater outcomes, and a recommendation for additional tables or graphs include tables for how close did Louise's play Fever get to its fundraising goal over what period of time so that Louise can see how she can improve her fundraising goals.
