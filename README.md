@@ -12,9 +12,13 @@ Now, she wants to know how different campaigns fared in relation to their launch
 
 ### Analysis of Outcomes Based on Launch Date
 
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/76754655/108576436-9d7c9280-72eb-11eb-85a2-c1698c50033d.png)
+
 Based on the Theater Outcomes Based on Launch Date, it looks as though there were more successful theater outcomes compared to failed and canceled throughout various launch dates. In addition, there are no canceled theater outcomes in October.
 
 ### Analysis of Outcomes Based on Goals
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/76754655/108576449-b422e980-72eb-11eb-8c00-2a3d617ddbff.png)
 
 Based on the Outcomes Based on Goals, it looks as though there was a higher percentage of successful outcomes based on goals less than 15,000 and between 35,000 and 40,000 compared to percentage of failed outcomes.
 
